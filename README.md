@@ -14,4 +14,6 @@ main('https://xmenmovies.fandom.com/wiki/Deadpool/Gallery', '/home')
  ```bash
  python3 main.py
  ```
-### Written by druzgeorge
+ #### Screenshots:
+ ![Screenshots of terminal output](https://github.com/druzgeorge/ImageDownloader/blob/master/screenshots.png)
+### Written by @druzgeorge
